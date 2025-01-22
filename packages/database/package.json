@@ -8,7 +8,7 @@
     "db:generate": "drizzle-kit generate",
     "db:pull": "drizzle-kit pull",
     "analyze": "drizzle-kit generate ",
-    "build": "drizzle-kit generate --no-hints",
+    "build": "drizzle-kit generate",
     "clean": "git clean -xdf .cache .turbo dist node_modules",
     "typecheck": "tsc --noEmit --emitDeclarationOnly false"
   },
