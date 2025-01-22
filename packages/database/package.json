@@ -21,7 +21,6 @@
   },
   "devDependencies": {
     "@repo/typescript-config": "workspace:*",
-    "@repo/env": "workspace:*",
     "@types/node": "22.10.7",
     "@types/ws": "^8.5.13",
     "bufferutil": "^4.0.9",
