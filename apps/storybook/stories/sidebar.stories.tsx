@@ -93,7 +93,7 @@ const data = {
   },
   teams: [
     {
-      name: 'Acme Inc',
+      name: 'Vacatina',
       logo: GalleryVerticalEnd,
       plan: 'Enterprise',
     },
